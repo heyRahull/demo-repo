@@ -1,0 +1,127 @@
+1. Numerical Ability (Quantitative Aptitude)
+-------------------------------------------
+Number System:
+- LCM (Least Common Multiple):
+  LCM(a, b) = (a × b) / GCD(a, b)
+  Shortcut: LCM × HCF = Product of numbers
+
+- HCF (Highest Common Factor):
+  HCF is the highest number that divides given numbers completely.
+
+- Divisibility Rules:
+  2 → Last digit is even.
+  3 → Sum of digits is divisible by 3.
+  4 → Last two digits form a number divisible by 4.
+  5 → Last digit is 0 or 5.
+  6 → Divisible by both 2 and 3.
+  8 → Last three digits form a number divisible by 8.
+  9 → Sum of digits is divisible by 9.
+  11 → Alternating sum difference is divisible by 11.
+
+Mensuration (Geometry)
+----------------------
+2D Shapes:
+- Rectangle: Area = L × B, Perimeter = 2(L + B)
+- Square: Area = s², Perimeter = 4s
+- Circle: Area = πr², Circumference = 2πr
+- Triangle: Area = (1/2) × b × h, Perimeter = a + b + c
+- Equilateral Triangle: Area = (√3/4) × a²
+- Trapezium: Area = (1/2) × (a + b) × h
+
+3D Shapes:
+- Cube: Volume = s³, TSA = 6s²
+- Cuboid: Volume = L × B × H, TSA = 2(LB + BH + LH)
+- Cylinder: Volume = πr²h, TSA = 2πr(h + r)
+- Sphere: Volume = (4/3)πr³, TSA = 4πr²
+
+Arithmetic Ability
+-------------------
+- Percentages:
+  x% of y = (x/100) × y
+  To increase x by y%: New value = x × (100 + y) / 100
+
+- Profit & Loss:
+  Profit% = (Profit / Cost Price) × 100
+  Loss% = (Loss / Cost Price) × 100
+  Selling Price (SP) = CP × (100 + Profit%) / 100
+  Discount% = [(Marked Price - Selling Price) / Marked Price] × 100
+
+- Interest:
+  Simple Interest (SI) = (P × R × T) / 100
+  Compound Interest (CI) = P(1 + R/100)ⁿ
+
+- Ratios & Proportions:
+  If a:b = x:y, then a = kx and b = ky
+
+Speed, Time & Distance:
+- Speed = Distance / Time
+- Relative Speed: 
+  - Opposite direction: S₁ + S₂
+  - Same direction: |S₁ - S₂|
+- Time to cross a platform = (Train Length + Platform Length) / Speed
+
+Time & Work:
+- If A completes work in x days, A’s 1-day work = 1/x
+- If A is n times efficient than B, A takes 1/n of B’s time
+
+Clocks & Calendar:
+- Minute hand moves: 6° per min
+- Hour hand moves: 30° per hour
+- Angle between hands = |(30H - 5.5M)|
+- Odd days: Normal year = 1, Leap year = 2
+
+Elementary Statistics:
+- Mean = Sum of terms / Number of terms
+- Median = Middle term (when sorted)
+- Mode = Most frequently occurring term
+- Variance = Σ(x - Mean)² / N
+- Standard Deviation = √Variance
+
+2. Logical Reasoning
+---------------------
+Seating Arrangements:
+- Circular: Left → Clockwise, Right → Counterclockwise
+- Linear:
+  - Facing Same Side = Normal arrangement
+  - Facing Opposite = Left ↔ Right swapped
+
+Blood Relations:
+- Son of your father’s brother → Cousin
+- Father of your wife → Father-in-law
+- Mother’s sister’s son → Cousin
+
+Syllogism:
+- Use Venn diagrams to check conclusions.
+
+Data Sufficiency:
+- A: Statement 1 alone is sufficient
+- B: Statement 2 alone is sufficient
+- C: Both statements together are needed
+- D: Neither is sufficient
+
+3. Verbal Ability
+------------------
+Grammar:
+- Articles: (a, an, the)
+- Prepositions: (on, in, at, by, with, for, since, until)
+
+Tenses:
+- Present: I work / He works
+- Past: I worked / He worked
+- Future: I will work / He will work
+
+Sentence Completion:
+- Fill in the blank with correct preposition, verb form, or conjunction.
+
+Error Spotting:
+- Subject-Verb Agreement: She go → She goes
+- Wrong tense usage: He has went → He has gone
+
+Reading Comprehension:
+- Tip: Read the question first, then scan the passage for answers.
+
+Final Tips
+----------
+✅ Time Management 
+✅ Use Elimination – Cross out incorrect options to improve accuracy.
+✅ Practice Mock Tests – Improves speed and accuracy.
